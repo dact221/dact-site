@@ -31,10 +31,10 @@ organizations: []
 education:
   courses:
     - course: M.Sc. in Water Resources and Environmental Engineering (in progress)
-      institution: Federal University of Paraná
+      institution: Federal University of Paraná (Brazil)
       year: ""
     - course: B.Sc. in Civil Engineering
-      institution: Universidad del Norte
+      institution: Universidad del Norte (Colombia)
       year: 2020
 email: ""
 superuser: true
