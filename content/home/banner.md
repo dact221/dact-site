@@ -10,4 +10,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-![](cesar-couto-s3dt3imws_u-unsplash.jpg)
+![]()
