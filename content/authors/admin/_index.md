@@ -11,11 +11,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=DZdxClsAAAAJ
   - icon: google-scholar
     icon_pack: ai
+    link: https://scholar.google.com/citations?user=DZdxClsAAAAJ
+  - icon: github
+    icon_pack: fab
     link: https://github.com/dact221
   - display:
       header: false
