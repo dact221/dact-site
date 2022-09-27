@@ -1,8 +1,7 @@
 ---
 title: Diego A. Casas
 role: M.Sc. Student in Water Resources and Environmental Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Hydrodynamic and wave modeling
   - Wave-current interaction
@@ -40,6 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-D﻿iego A. Casas is a M.Sc. student in Water Resources and Environmental Engineering at the Federal University of Paraná, Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
+D﻿iego A. Casas is a M.Sc. student in the Graduate Program of Water Resources and Environmental Engineering ([PPGERHA](https://www.prppg.ufpr.br/site/ppgerha)) at the Federal University of Paraná, Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-Diego-Casas.pdf" "newtab" >}}CV{{< /staticref >}}.
