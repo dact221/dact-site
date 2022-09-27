@@ -25,7 +25,7 @@ experience:
   - title: Instructor
     company: Universidad del Magdalena
     company_url: 'https://www.unimagdalena.edu.co/'
-    company_logo: 'https://cdn.unimagdalena.edu.co/images/escudo/bg_light/128.png'
+#    company_logo: 'https://cdn.unimagdalena.edu.co/images/escudo/bg_light/128.png'
     location: Santa Marta, Colombia
     date_start: '2000-01-01'
     date_end: '2001-01-01'
@@ -33,7 +33,7 @@ experience:
   - title: Contract Engineer
     company: ATE Hydrosystems
     company_url: 'https://www.atehydrosystems.com/'
-    company_logo: 'https://i.imgur.com/TiR2TVt.png'
+#    company_logo: 'https://i.imgur.com/TiR2TVt.png'
     location: Barranquilla, Colombia
     date_start: '2001-01-02'
     date_end: '2002-01-02'
@@ -41,7 +41,7 @@ experience:
   - title: Contract Engineer
     company: Universidad del Norte
     company_url: 'https://uninorte.edu.co/'
-    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBb15zio8gKuIEDJZXkEHyB9pSmOQ7MxZEQ&usqp=CAU'
+#    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBb15zio8gKuIEDJZXkEHyB9pSmOQ7MxZEQ&usqp=CAU'
     location: Barranquilla, Colombia
     date_start: '2002-01-03'
     date_end: '2003-01-03'
