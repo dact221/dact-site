@@ -24,7 +24,7 @@ social:
     icon: orcid
   - display:
       header: false
-    link: uploads/demo_resume.pdf
+    link: uploads/cv-Diego-Casas.pdf
     icon_pack: ai
     icon: cv
 organizations: []
@@ -42,4 +42,4 @@ highlight_name: true
 ---
 D﻿iego A. Casas is a M.Sc. student in Water Resources and Environmental Engineering at the Federal University of Paraná, Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-Diego-Casas.pdf" "newtab" >}}CV{{< /staticref >}}.

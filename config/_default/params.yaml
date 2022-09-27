@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: ocean
-  theme_night: ocean
+#  theme_night: ocean
   font: minimal
-  font_size: M
+  font_size: S
 
 # SEO
 
