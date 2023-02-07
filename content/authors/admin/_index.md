@@ -33,7 +33,7 @@ education:
       institution: Federal University of Paraná (Brazil)
     - course: M.Sc. in Water Resources and Environmental Engineering
       institution: Federal University of Paraná (Brazil)
-      year: ""
+      year: 2023
     - course: B.Sc. in Civil Engineering
       institution: Universidad del Norte (Colombia)
       year: 2020
