@@ -1,6 +1,6 @@
 ---
 title: Diego A. Casas
-role: M.Sc. Student in Water Resources and Environmental Engineering
+role: Ph.D. Student in Water Resources and Environmental Engineering
 bio: ""
 interests:
   - Hydrodynamic and wave modeling
@@ -29,7 +29,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: M.Sc. in Water Resources and Environmental Engineering (in progress)
+    - course: Ph.D. in Water Resources and Environmental Engineering (in progress)
+      institution: Federal University of Paraná (Brazil)
+    - course: M.Sc. in Water Resources and Environmental Engineering
       institution: Federal University of Paraná (Brazil)
       year: ""
     - course: B.Sc. in Civil Engineering
@@ -39,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-D﻿iego A. Casas is a M.Sc. student in the Graduate Program of Water Resources and Environmental Engineering ([PPGERHA](https://www.prppg.ufpr.br/site/ppgerha)) at the Federal University of Paraná, Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
+D﻿iego A. Casas is a Ph.D. student in the Graduate Program of Water Resources and Environmental Engineering ([PPGERHA](https://www.prppg.ufpr.br/site/ppgerha)) at the Federal University of Paraná, Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-Diego-Casas.pdf" "newtab" >}}CV{{< /staticref >}}.
