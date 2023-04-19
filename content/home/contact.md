@@ -22,12 +22,6 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
 
-  # Contact details (edit or remove options as required)
-  email: diego.casas@ufpr.br
-  address:
-    city: Curitiba
-    region: Brazil
-
 design:
   columns: '2'
 ---
