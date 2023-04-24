@@ -28,7 +28,7 @@ In order to compile Delft3D 4 kernels *tag 142586*, the following software is re
 
 ## Download links
 
-* Delft3D 4: [delft3d4/142586](https://svn.oss.deltares.nl/repos/delft3d/tags/delft3d4/142586/)
+* Delft3D 4: [delft3d4/142586](https://svn.oss.deltares.nl/repos/delft3d/tags/delft3d4/142586/) (use a Subversion client to export it)
 * Visual Studio Community 2019: [16.11](https://aka.ms/vs/16/release/vs_community.exe)
 * Intel oneAPI Base Toolkit:
   * [2021.3](https://registrationcenter-download.intel.com/akdlm/irc_nas/17978/w_BaseKit_p_2021.3.0.3221.exe)
