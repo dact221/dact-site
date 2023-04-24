@@ -55,7 +55,7 @@ Compilation is straightforward thanks to the `build.bat` script:
 * The compiled kernels will be in the `/build_delft3d4/x64` subfolder.
 * This `x64` folder must be merged with the `x64` folder in the the GUI installation directory (replacing existing files) in order to use Delft3D from the graphical interface.
 
-#﻿## Issues
+## Issues
 
 * File `dioconfig.ini` in `\x64\dflow2d3d\default` must be copied to `\x64\dwaves\default` to run coupled wave-current models from the GUI.
 * **I﻿f you find other installation issues, please let me know, and I will update the instructions.**
