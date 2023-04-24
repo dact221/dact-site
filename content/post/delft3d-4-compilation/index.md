@@ -26,7 +26,7 @@ In order to compile Delft3D 4 kernels *tag 142586*, the following software is re
    * Intel oneAPI DPC++/C++ Compiler & Intel C++ Compiler Classic
    * Intel Fortran Compiler (Beta) & Intel Fortran Compiler Classic
 
-The components listed above do not guarantee a minimal installation.
+The components listed above do not guarantee a minimal installation (i.e., some of them may be unnecessary; feel free to test).
 
 ## Download links
 
