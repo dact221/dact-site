@@ -50,7 +50,7 @@ Delft3D 4 compilation requires specific older versions (e.g., 2021). However, In
 Compilation is straightforward thanks to the `build.bat` script:
 
 * Open "Intel oneAPI command prompt for Intel 64 for Visual Studio 2019".
-* Change working directory to the root source code folder (the one that contains `build.bat` and the `src` subfolder).
+* Change the working directory using the `cd` command to the Delft3D 4 source code folder (where `build.bat` is located).
 * Run `build.bat delft3d4` and wait for the automatic preparation and compilation.
 * The compiled kernels will be in the `/build_delft3d4/x64` subfolder.
 * This `x64` folder must be merged with the `x64` folder in the the GUI installation directory (replacing existing files) in order to use Delft3D from the graphical interface.
