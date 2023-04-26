@@ -41,7 +41,7 @@ The components listed above do not guarantee a minimal installation (i.e., some 
 
 T﻿he latest version of the Intel oneAPI toolkits is 2021.4. However, compilation of Delft3D 4 with 2021.4 toolkits seems to be unsupported.
 
-Delft3D 4 compilation requires specific older versions (e.g., 2021). However, Intel's website only has download links for the latest version of the oneAPI toolkits. To get installers for older versions, Intel "suggests" its users to purchase a license from a reseller (see [this post](https://community.intel.com/t5/oneAPI-Registration-Download/How-to-download-Intel-compiler-2021-4/td-p/1365702)). In order to download older versions without purchasing a license, direct download links may be used. The following GitHub repository contains a list of download links for Intel oneAPI toolkits versions 2021.x and 2022.1:
+Delft3D 4 compilation requires Intel Fortran compiler version 2021, 2019, 2018 or 2016. However, on Intel's website you can only download the latest version (current year) of the oneAPI toolkits. To get installers for previous versions, Intel "suggests" its users to purchase a license from a reseller (see [this post](https://community.intel.com/t5/oneAPI-Registration-Download/How-to-download-Intel-compiler-2021-4/td-p/1365702)). In order to download older versions without purchasing a license, direct download links may be used. The following GitHub repository contains a list of download links for Intel oneAPI toolkits versions 2021.x and 2022.1:
 
 * [github.com/hypersad/oneapi-release-history](https://github.com/hypersad/oneapi-release-history)
 
@@ -50,7 +50,7 @@ Delft3D 4 compilation requires specific older versions (e.g., 2021). However, In
 Compilation is straightforward thanks to the `build.bat` script:
 
 * Open "Intel oneAPI command prompt for Intel 64 for Visual Studio 2019".
-* Change the working directory using the `cd` command to the Delft3D 4 source code folder (where `build.bat` is located).
+* Change the working directory using the `cd` command to the Delft3D source code folder (where `build.bat` is located).
 * Run `build.bat delft3d4` and wait for the automatic preparation and compilation.
 * The compiled kernels will be in the `/build_delft3d4/x64` subfolder.
 * This `x64` folder must be merged with the `x64` folder in the the GUI installation directory (replacing existing files) in order to use Delft3D from the graphical interface.
