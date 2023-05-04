@@ -51,6 +51,7 @@ Compilation is straightforward thanks to the `build.bat` script:
 
 * Open "Intel oneAPI command prompt for Intel 64 for Visual Studio 2019".
 * Change the working directory using the `cd` command to the Delft3D source code folder (where `build.bat` is located).
+  * Make sure that the path does not contain spaces. It is also advisable to use a short path (e.g., `C:\MyDelft3D\...`).
 * Run `build.bat delft3d4` and wait for the automatic preparation and compilation.
 * The compiled kernels will be in the `/build_delft3d4/x64` subfolder.
 * This `x64` folder must be merged with the `x64` folder in the the GUI installation directory (replacing existing files) in order to use Delft3D from the graphical interface.
