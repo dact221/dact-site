@@ -12,6 +12,8 @@ image:
 *These instructions were adapted from [Mathew Topper
 (H0R5E)](https://gist.github.com/H0R5E/162ffb929d946e9ccf1c9202e30c9b92).*
 
+*I thank [Rafael Bueno](https://buenorc.github.io) for testing and providing valuable feedback.*
+
 In order to compile Delft3D 4 kernels *tag 142586*, the following software is required:
 
 1. *Visual Studio Community 2019* (version 16) with workload "Desktop development with C++" *and the following additional components:*
