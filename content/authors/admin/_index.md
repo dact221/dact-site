@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Diego A. Casas is a Ph.D. student in the Graduate Program of Water Resources and Environmental Engineering ([PPGERHA](https://www.prppg.ufpr.br/site/ppgerha)) at the Federal University of Paraná (UFPR), Brazil. His research interests are in coastal hydrodynamics, wave climate and scientific computing.
+Diego A. Casas is a Ph.D. student in the Graduate Program of Water Resources and Environmental Engineering ([PPGERHA](https://www.prppg.ufpr.br/site/ppgerha)) at the Federal University of Paraná (UFPR), Brazil. His research interests are in coastal hydrodynamics, wave climate, transport phenomena and scientific computing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
