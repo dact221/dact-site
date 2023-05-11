@@ -1,11 +1,25 @@
 ---
-title: Influence of waves on the transport and fate of sediments from a
-  submarine sewage outfall in shallow coastal waters
-publication_types:
-  - "7"
+title: 'Influence of waves on the transport and fate of sediments from a
+  submarine sewage outfall in shallow coastal waters'
 authors:
   - Diego Andrés Casas Toro
-abstract: The present work aims to study the effects of waves on the transport
+tags:
+- Marine outfall
+- Wave-current interaction
+- Sediment resuspension
+date: '2023-01-01'
+draft: false
+featured: true
+
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+
+publication_types:
+  - "7"
+
+abstract: 'The present work aims to study the effects of waves on the transport
   and fate of sediments from submarine wastewater outfalls in relatively shallow
   waters. A hydrodynamic model both with and without wave effects was
   implemented, calibrated and validated for a case study in Baixada Santista,
@@ -27,12 +41,10 @@ abstract: The present work aims to study the effects of waves on the transport
   identify areas of long-term environmental concern. In conclusion, it is
   suggested that future studies consider the potential effects of surface waves
   on the design and operational conditions of submarine sewage outfalls,
-  especially for outfalls that discharge in relatively shallow waters.
-draft: false
-featured: true
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2023-05-11T17:38:04.203Z
+  especially for outfalls that discharge in relatively shallow waters.'
+
+publication: 'Federal University of Paraná'
+links:
+- name: PDF
+  url: http://www.prppg.ufpr.br/siga/visitante/trabalhoConclusaoWS?idpessoal=152603&idprograma=40001016021P0&anobase=2023&idtc=60
 ---
