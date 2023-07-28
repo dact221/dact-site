@@ -23,7 +23,7 @@ social:
     icon: orcid
   - display:
       header: false
-    link: uploads/cv-Diego-Casas.pdf
+    link: uploads/cv.pdf
     icon_pack: ai
     icon: cv
 organizations: []
