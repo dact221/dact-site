@@ -3,9 +3,9 @@ title: Diego A. Casas
 role: Ph.D. Student in Water Resources and Environmental Engineering
 bio: ""
 interests:
-  - Hydrodynamic and wave modeling
-  - Wave-current interaction
-  - Wave climate analysis
+  - Coastal hydrodynamics
+  - Transport and mixing processes
+  - Wave climate
 social:
   - icon: envelope
     icon_pack: fas
