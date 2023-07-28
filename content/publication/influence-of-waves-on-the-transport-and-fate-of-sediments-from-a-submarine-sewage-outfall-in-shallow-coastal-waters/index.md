@@ -43,8 +43,8 @@ abstract: 'The present work aims to study the effects of waves on the transport
   on the design and operational conditions of submarine sewage outfalls,
   especially for outfalls that discharge in relatively shallow waters.'
 
-publication: 'Federal University of Paraná'
+publication: 'M.Sc. dissertation, Federal University of Paraná'
 links:
-- name: PDF
-  url: http://www.prppg.ufpr.br/siga/visitante/trabalhoConclusaoWS?idpessoal=152603&idprograma=40001016021P0&anobase=2023&idtc=60
+- name: URI
+  url: https://hdl.handle.net/1884/82595
 ---
