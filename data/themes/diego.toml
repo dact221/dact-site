@@ -14,3 +14,10 @@ name = "Diego"
   # Home sections
   home_section_odd = "#f2f2f2"
   home_section_even = "#e6e6e6"
+
+[dark]
+  # Primary
+  primary = "#00b39b"
+
+  link = "#00b39b"
+  link_hover = "#00b39b"
