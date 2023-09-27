@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: diego
-  theme_night: "diego dark"
+  theme_night: diegodark
   font: minimal
   font_size: M
 
