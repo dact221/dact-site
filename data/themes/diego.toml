@@ -20,7 +20,7 @@ name = "Diego"
   primary = "#00b39b"
 
   # Menu
-  menu_text_active = "#008674"
+  menu_text_active = "#00b39b"
 
   link = "#00b39b"
   link_hover = "#00b39b"
